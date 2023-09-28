@@ -51,6 +51,7 @@ Widget buildNewsItem(article, context) => InkWell(
                       style: TextStyle(
                         color: Colors.grey[500],
                       ),
+                      //hoals
                     ),
                   ],
                 ),
