@@ -52,6 +52,7 @@ Widget buildNewsItem(article, context) => InkWell(
                         color: Colors.grey[500],
                       ),
                       //hoals
+                      lmlmlmlmlit 
                     ),
                   ],
                 ),
