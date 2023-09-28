@@ -6,7 +6,7 @@ import '../cubit/cubit.dart';
 
 Widget buildNewsItem(article, context) => InkWell(
       onTap: () {
-        navigateTo(context, WebViewScreen('url'));
+        // navigateTo(context, WebViewScreen('url'));
       },
       child: Padding(
         padding: const EdgeInsets.all(20.0),
